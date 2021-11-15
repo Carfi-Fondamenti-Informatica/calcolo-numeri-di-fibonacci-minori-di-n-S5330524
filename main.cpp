@@ -1,6 +1,6 @@
 #include <iostream> 
 
-uing namespase std;
+using namespase std;
 
 
 Int main ()
@@ -21,3 +21,4 @@ b=c;
       }
 return 0;
 }
+
